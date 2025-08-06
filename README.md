@@ -4,6 +4,7 @@ Hello! This is the repository where I document my progress, and insights as I ex
 ## 📂 Repository Structure 
 - **`modules/`** - Text content learning modules that explains concepts, techniques, and best practice
 - **`exercises/`** - Exercises modules included with screenshots, instructions, and output
+- **`projects/`** - This are my personal projects & experiments that I made with Power Automate
 - **`references/`** - Links, tutorials, external resources that were helpful in my learning journey
 
 ---
